@@ -19,7 +19,7 @@ public class TestLevel {
         Dict.insert("A", new StringPair("A","A"));
         Dict.insert("H", new StringPair("H","H"));
 
-        for(StringPair p : Dict.values())
-            System.out.println(p.getString1());
+//        for(StringPair p : Dict.values())
+//            System.out.println(p.getString1());
     }
 }
